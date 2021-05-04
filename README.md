@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m a Computer Science student and Django Developer also works with js, react and node. 
-- 🌱 My tech stack is Python/Django + ReactJS + PostgreSQL.
+- 🌱 My tech stack is Python/Django + Nodejs + ReactJS + Mongodb.
 - 👯 I’m learning linux and falling in love with linux.
 - 😄 It is good to see you here on my profile.
 
