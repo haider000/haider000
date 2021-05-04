@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/django.png" /></code>
 <code><img height="48" src="https://img.icons8.com/nolan/64/javascript.png" /></code>
-<code><img height="48" src="https://img.icons8.com/bubbles/50/000000/node.png" /></code>
+<code><img height="48" src="https://img.icons8.com/bubbles/50/000000/nodejs.png" /></code>
 <code><img height="48" src="https://img.icons8.com/bubbles/50/000000/react.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/mongodb.png" /></code>
 <code><img height="48" src="https://img.icons8.com/nolan/64/sql.png" /></code>
