@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 <!-- <code><img height="48" src="https://img.icons8.com/nolan/48/linux--v2.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" /></code> -->
 
+
+
 #### Stats 👨‍💻
 <!-- ![haider000's github stats](https://github-readme-stats.vercel.app/api?username=haider000&show_icons=true&theme=radical) -->
 <p align="center">
@@ -61,6 +63,6 @@ Here are some ideas to get you started:
 <a href="https://codesandbox.io/u/mohd.b.haider000786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="haider000" height="30" width="40" /></a>
 </p>
 
-##### Thanks Alot for coming to my profile.
+<p align="center">Thanks a lot for coming to my profile.</p>
 
 <!-- <a href="https://codepen.io/patheticgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="patheticgeek" height="30" width="40" /></a> -->
