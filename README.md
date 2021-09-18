@@ -63,6 +63,11 @@ Here are some ideas to get you started:
 <a href="https://codesandbox.io/u/mohd.b.haider000786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="haider000" height="30" width="40" /></a>
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/haider000/count.svg" />
+ </p>
+
 <p align="center">Thanks a lot for coming to my profile.</p>
 
 <!-- <a href="https://codepen.io/patheticgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="patheticgeek" height="30" width="40" /></a> -->
